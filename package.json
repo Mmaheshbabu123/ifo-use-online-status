@@ -26,4 +26,8 @@
     "node-polyfill-webpack-plugin": "^1.1.0",
     "stream-browserify": "^3.0.0",
     "browserify-zlib": "^0.2.0",
-    "webpack-cli": "^
+    "webpack-cli": "^4.10.0"
+  },
+  "author": "mahesh",
+  "license": "ISC"
+}

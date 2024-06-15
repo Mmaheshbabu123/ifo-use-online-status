@@ -1,6 +1,6 @@
 {
   "name": "ifo-use-onlince-status",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is custom hook for check online or offline  method",
   "main": "./build/index.js",
   "scripts": {
